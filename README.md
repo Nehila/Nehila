@@ -6,5 +6,5 @@
 - 💪 +32 Repositories 
 
 #### 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-Nehila&layout=compact)](https://github.com/Nehila)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehila&layout=compact)](https://github.com/Nehila)
 

@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nouhaila Enihe
 - 👀 I’m interested in New Technologies such as SCALA
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning Data Science and Artificial Intelligence 
 - 📫 How to reach me enihenohaila@gmail.com
-- 🌱 2 Years learning and building projects with Python, and ReactJS
+- 🌱 +4 Years learning and building projects with Python, and ReactJS
 - 💪 +32 Repositories 
 
 #### 📈 GitHub Stats
